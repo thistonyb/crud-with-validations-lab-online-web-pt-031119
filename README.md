@@ -1,12 +1,10 @@
 # CRUD With Validations Lab
-
 Your goal in this lab is to create a thorough CRUD interface for one model, the
 `Song`.
 
 ## Songs
 
 Songs have the following attributes and limitations:
-
 - `title`, a `string`
   - Must not be blank
   - Cannot be repeated by the same artist in the same year
